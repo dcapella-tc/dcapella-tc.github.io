@@ -1,0 +1,2018 @@
+[
+  {
+    "country": "Afghanistan",
+    "keywords": [
+      "AF",
+      "AFG",
+      "Afghanistan"
+    ]
+  },
+  {
+    "country": "Albania",
+    "keywords": [
+      "AL",
+      "ALB",
+      "Albania"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "keywords": [
+      "Algeria",
+      "DZ",
+      "DZA"
+    ]
+  },
+  {
+    "country": "American Samoa",
+    "keywords": [
+      "AS",
+      "ASM",
+      "American Samoa"
+    ]
+  },
+  {
+    "country": "Andorra",
+    "keywords": [
+      "AD",
+      "AND",
+      "Andorra"
+    ]
+  },
+  {
+    "country": "Angola",
+    "keywords": [
+      "AGO",
+      "AO",
+      "Angola"
+    ]
+  },
+  {
+    "country": "Anguilla",
+    "keywords": [
+      "AI",
+      "AIA",
+      "Anguilla"
+    ]
+  },
+  {
+    "country": "Antarctica",
+    "keywords": [
+      "AQ",
+      "ATA",
+      "Antarctica"
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "keywords": [
+      "AG",
+      "ATG",
+      "Antigua and Barbuda"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "keywords": [
+      "AR",
+      "ARG",
+      "Argentina"
+    ]
+  },
+  {
+    "country": "Armenia",
+    "keywords": [
+      "AM",
+      "ARM",
+      "Armenia"
+    ]
+  },
+  {
+    "country": "Aruba",
+    "keywords": [
+      "ABW",
+      "AW",
+      "Aruba"
+    ]
+  },
+  {
+    "country": "Australia",
+    "keywords": [
+      "AU",
+      "AUS",
+      "Australia"
+    ]
+  },
+  {
+    "country": "Austria",
+    "keywords": [
+      "AT",
+      "AUT",
+      "Austria"
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "keywords": [
+      "AZ",
+      "AZE",
+      "Azerbaijan"
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "keywords": [
+      "BHS",
+      "BS",
+      "Bahamas"
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "keywords": [
+      "BH",
+      "BHR",
+      "Bahrain"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "keywords": [
+      "BD",
+      "BGD",
+      "Bangladesh"
+    ]
+  },
+  {
+    "country": "Barbados",
+    "keywords": [
+      "BB",
+      "BRB",
+      "Barbados"
+    ]
+  },
+  {
+    "country": "Belarus",
+    "keywords": [
+      "BLR",
+      "BY",
+      "Belarus"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "keywords": [
+      "BE",
+      "BEL",
+      "Belgium"
+    ]
+  },
+  {
+    "country": "Belize",
+    "keywords": [
+      "BLZ",
+      "BZ",
+      "Belize"
+    ]
+  },
+  {
+    "country": "Benin",
+    "keywords": [
+      "BEN",
+      "BJ",
+      "Benin"
+    ]
+  },
+  {
+    "country": "Bermuda",
+    "keywords": [
+      "BM",
+      "BMU",
+      "Bermuda"
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "keywords": [
+      "BT",
+      "BTN",
+      "Bhutan"
+    ]
+  },
+  {
+    "country": "Bolivia, Plurinational State of",
+    "keywords": [
+      "BO",
+      "BOL",
+      "Plurinational State of Bolivia"
+    ]
+  },
+  {
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "keywords": [
+      "BES",
+      "BQ",
+      "Bonaire, Sint Eustatius and Saba"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "keywords": [
+      "BA",
+      "BIH",
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "country": "Botswana",
+    "keywords": [
+      "BW",
+      "BWA",
+      "Botswana"
+    ]
+  },
+  {
+    "country": "Bouvet Island",
+    "keywords": [
+      "BV",
+      "BVT",
+      "Bouvet Island"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "keywords": [
+      "BR",
+      "BRA",
+      "Brazil"
+    ]
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "keywords": [
+      "British Indian Ocean Territory",
+      "IO",
+      "IOT"
+    ]
+  },
+  {
+    "country": "Brunei Darussalam",
+    "keywords": [
+      "BN",
+      "BRN",
+      "Brunei Darussalam"
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "keywords": [
+      "BG",
+      "BGR",
+      "Bulgaria"
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "keywords": [
+      "BF",
+      "BFA",
+      "Burkina Faso"
+    ]
+  },
+  {
+    "country": "Burundi",
+    "keywords": [
+      "BDI",
+      "BI",
+      "Burundi"
+    ]
+  },
+  {
+    "country": "Cabo Verde",
+    "keywords": [
+      "CPV",
+      "CV",
+      "Cabo Verde"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "keywords": [
+      "Cambodia",
+      "KH",
+      "KHM"
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "keywords": [
+      "CM",
+      "CMR",
+      "Cameroon"
+    ]
+  },
+  {
+    "country": "Canada",
+    "keywords": [
+      "CA",
+      "CAN",
+      "Canada"
+    ]
+  },
+  {
+    "country": "Cayman Islands",
+    "keywords": [
+      "CYM",
+      "Cayman Islands",
+      "KY"
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "keywords": [
+      "CAF",
+      "CF",
+      "Central African Republic"
+    ]
+  },
+  {
+    "country": "Chad",
+    "keywords": [
+      "Chad",
+      "TCD",
+      "TD"
+    ]
+  },
+  {
+    "country": "Chile",
+    "keywords": [
+      "CHL",
+      "CL",
+      "Chile"
+    ]
+  },
+  {
+    "country": "China",
+    "keywords": [
+      "CHN",
+      "CN",
+      "China"
+    ]
+  },
+  {
+    "country": "Christmas Island",
+    "keywords": [
+      "CX",
+      "CXR",
+      "Christmas Island"
+    ]
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "keywords": [
+      "CC",
+      "CCK",
+      "Keeling"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "keywords": [
+      "CO",
+      "COL",
+      "Colombia"
+    ]
+  },
+  {
+    "country": "Comoros",
+    "keywords": [
+      "COM",
+      "Comoros",
+      "KM"
+    ]
+  },
+  {
+    "country": "Congo",
+    "keywords": [
+      "CG",
+      "COG",
+      "Congo"
+    ]
+  },
+  {
+    "country": "Congo, The Democratic Republic of the",
+    "keywords": [
+      "CD",
+      "COD",
+      "Congo, The Democratic Republic of the"
+    ]
+  },
+  {
+    "country": "Cook Islands",
+    "keywords": [
+      "CK",
+      "COK",
+      "Cook Islands"
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "keywords": [
+      "CR",
+      "CRI",
+      "Costa Rica"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "keywords": [
+      "Croatia",
+      "HR",
+      "HRV"
+    ]
+  },
+  {
+    "country": "Cuba",
+    "keywords": [
+      "CU",
+      "CUB",
+      "Cuba"
+    ]
+  },
+  {
+    "country": "Curaçao",
+    "keywords": [
+      "CUW",
+      "CW",
+      "Curacao"
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "keywords": [
+      "CY",
+      "CYP",
+      "Cyprus"
+    ]
+  },
+  {
+    "country": "Czechia",
+    "keywords": [
+      "CZ",
+      "CZE",
+      "Czech Republic",
+      "Czechia"
+    ]
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "keywords": [
+      "CI",
+      "CIV",
+      "Cote d'Ivoire",
+      "Ivory Coast"
+    ]
+  },
+  {
+    "country": "Denmark",
+    "keywords": [
+      "DK",
+      "DNK",
+      "Denmark"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "keywords": [
+      "DJ",
+      "DJI",
+      "Djibouti"
+    ]
+  },
+  {
+    "country": "Dominica",
+    "keywords": [
+      "DM",
+      "DMA",
+      "Dominica"
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "keywords": [
+      "DO",
+      "DOM",
+      "Dominican Republic"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "keywords": [
+      "EC",
+      "ECU",
+      "Ecuador"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "keywords": [
+      "EG",
+      "EGY",
+      "Egypt"
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "keywords": [
+      "El Salvador",
+      "SLV",
+      "SV"
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "keywords": [
+      "Equatorial Guinea",
+      "GNQ",
+      "GQ"
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "keywords": [
+      "ER",
+      "ERI",
+      "Eritrea"
+    ]
+  },
+  {
+    "country": "Estonia",
+    "keywords": [
+      "EE",
+      "EST",
+      "Estonia"
+    ]
+  },
+  {
+    "country": "Eswatini",
+    "keywords": [
+      "Eswatini",
+      "SWZ",
+      "SZ",
+      "Swaziland"
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "keywords": [
+      "ET",
+      "ETH",
+      "Ethiopia"
+    ]
+  },
+  {
+    "country": "Falkland Islands (Malvinas)",
+    "keywords": [
+      "FK",
+      "FLK",
+      "Malvinas"
+    ]
+  },
+  {
+    "country": "Faroe Islands",
+    "keywords": [
+      "FO",
+      "FRO",
+      "Faroe Islands"
+    ]
+  },
+  {
+    "country": "Fiji",
+    "keywords": [
+      "FJ",
+      "FJI",
+      "Fiji"
+    ]
+  },
+  {
+    "country": "Finland",
+    "keywords": [
+      "FI",
+      "FIN",
+      "Finland"
+    ]
+  },
+  {
+    "country": "France",
+    "keywords": [
+      "FR",
+      "FRA",
+      "France"
+    ]
+  },
+  {
+    "country": "French Guiana",
+    "keywords": [
+      "French Guiana",
+      "GF",
+      "GUF"
+    ]
+  },
+  {
+    "country": "French Polynesia",
+    "keywords": [
+      "French Polynesia",
+      "PF",
+      "PYF"
+    ]
+  },
+  {
+    "country": "French Southern Territories",
+    "keywords": [
+      "ATF",
+      "French Southern Territories",
+      "TF"
+    ]
+  },
+  {
+    "country": "Gabon",
+    "keywords": [
+      "GA",
+      "GAB",
+      "Gabon"
+    ]
+  },
+  {
+    "country": "Gambia",
+    "keywords": [
+      "GM",
+      "GMB",
+      "Gambia"
+    ]
+  },
+  {
+    "country": "Georgia",
+    "keywords": [
+      "GE",
+      "GEO",
+      "Georgia"
+    ]
+  },
+  {
+    "country": "Germany",
+    "keywords": [
+      "DE",
+      "DEU",
+      "Germany"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "keywords": [
+      "GH",
+      "GHA",
+      "Ghana"
+    ]
+  },
+  {
+    "country": "Gibraltar",
+    "keywords": [
+      "GI",
+      "GIB",
+      "Gibraltar"
+    ]
+  },
+  {
+    "country": "Greece",
+    "keywords": [
+      "GR",
+      "GRC",
+      "Greece"
+    ]
+  },
+  {
+    "country": "Greenland",
+    "keywords": [
+      "GL",
+      "GRL",
+      "Greenland"
+    ]
+  },
+  {
+    "country": "Grenada",
+    "keywords": [
+      "GD",
+      "GRD",
+      "Grenada"
+    ]
+  },
+  {
+    "country": "Guadeloupe",
+    "keywords": [
+      "GLP",
+      "GP",
+      "Guadeloupe"
+    ]
+  },
+  {
+    "country": "Guam",
+    "keywords": [
+      "GU",
+      "GUM",
+      "Guam"
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "keywords": [
+      "GT",
+      "GTM",
+      "Guatemala"
+    ]
+  },
+  {
+    "country": "Guernsey",
+    "keywords": [
+      "GG",
+      "GGY",
+      "Guernsey"
+    ]
+  },
+  {
+    "country": "Guinea",
+    "keywords": [
+      "GIN",
+      "GN",
+      "Guinea"
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "keywords": [
+      "GNB",
+      "GW",
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "country": "Guyana",
+    "keywords": [
+      "GUY",
+      "GY",
+      "Guyana"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "keywords": [
+      "HT",
+      "HTI",
+      "Haiti"
+    ]
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "keywords": [
+      "HM",
+      "HMD",
+      "Heard Island and McDonald Islands"
+    ]
+  },
+  {
+    "country": "Holy See",
+    "keywords": [
+      "VA",
+      "Vatican",
+      "Vatican City"
+    ]
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "keywords": [
+      "Holy See",
+      "VA",
+      "VAT"
+    ]
+  },
+  {
+    "country": "Honduras",
+    "keywords": [
+      "HN",
+      "HND",
+      "Honduras"
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "keywords": [
+      "HK",
+      "HKG",
+      "Hong Kong"
+    ]
+  },
+  {
+    "country": "Hungary",
+    "keywords": [
+      "HU",
+      "HUN",
+      "Hungary"
+    ]
+  },
+  {
+    "country": "Iceland",
+    "keywords": [
+      "IS",
+      "ISL",
+      "Iceland"
+    ]
+  },
+  {
+    "country": "India",
+    "keywords": [
+      "IN",
+      "IND",
+      "India"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "keywords": [
+      "ID",
+      "IDN",
+      "Indonesia"
+    ]
+  },
+  {
+    "country": "Iran, Islamic Republic of",
+    "keywords": [
+      "IR",
+      "IRN",
+      "Islamic Republic of Iran"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "keywords": [
+      "IQ",
+      "IRQ",
+      "Iraq"
+    ]
+  },
+  {
+    "country": "Ireland",
+    "keywords": [
+      "IE",
+      "IRL",
+      "Ireland"
+    ]
+  },
+  {
+    "country": "Isle of Man",
+    "keywords": [
+      "IM",
+      "IMN",
+      "Isle of Man"
+    ]
+  },
+  {
+    "country": "Israel",
+    "keywords": [
+      "IL",
+      "ISR",
+      "Israel"
+    ]
+  },
+  {
+    "country": "Italy",
+    "keywords": [
+      "IT",
+      "ITA",
+      "Italy"
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "keywords": [
+      "JAM",
+      "JM",
+      "Jamaica"
+    ]
+  },
+  {
+    "country": "Japan",
+    "keywords": [
+      "JP",
+      "JPN",
+      "Japan"
+    ]
+  },
+  {
+    "country": "Jersey",
+    "keywords": [
+      "JE",
+      "JEY",
+      "Jersey"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "keywords": [
+      "JO",
+      "JOR",
+      "Jordan"
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "keywords": [
+      "KAZ",
+      "KZ",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "country": "Kenya",
+    "keywords": [
+      "KE",
+      "KEN",
+      "Kenya"
+    ]
+  },
+  {
+    "country": "Kiribati",
+    "keywords": [
+      "KI",
+      "KIR",
+      "Kiribati"
+    ]
+  },
+  {
+    "country": "Korea, Democratic People's Republic of",
+    "keywords": [
+      "Democratic People's Republic of Korea",
+      "KP",
+      "PRK"
+    ]
+  },
+  {
+    "country": "Korea, Republic of",
+    "keywords": [
+      "KOR",
+      "KR",
+      "Korea, Republic of"
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "keywords": [
+      "KW",
+      "KWT",
+      "Kuwait"
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "keywords": [
+      "KG",
+      "KGZ",
+      "Kyrgyzstan"
+    ]
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "keywords": [
+      "LA",
+      "LAO",
+      "Lao People's Democratic Republic"
+    ]
+  },
+  {
+    "country": "Latvia",
+    "keywords": [
+      "LV",
+      "LVA",
+      "Latvia"
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "keywords": [
+      "LB",
+      "LBN",
+      "Lebanon"
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "keywords": [
+      "LS",
+      "LSO",
+      "Lesotho"
+    ]
+  },
+  {
+    "country": "Liberia",
+    "keywords": [
+      "LBR",
+      "LR",
+      "Liberia"
+    ]
+  },
+  {
+    "country": "Libya",
+    "keywords": [
+      "LBY",
+      "LY",
+      "Libya"
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "keywords": [
+      "LI",
+      "LIE",
+      "Liechtenstein"
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "keywords": [
+      "LT",
+      "LTU",
+      "Lithuania"
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "keywords": [
+      "LU",
+      "LUX",
+      "Luxembourg"
+    ]
+  },
+  {
+    "country": "Macao",
+    "keywords": [
+      "MAC",
+      "MO",
+      "Macao"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "keywords": [
+      "MDG",
+      "MG",
+      "Madagascar"
+    ]
+  },
+  {
+    "country": "Malawi",
+    "keywords": [
+      "MW",
+      "MWI",
+      "Malawi"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "keywords": [
+      "MY",
+      "MYS",
+      "Malaysia"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "keywords": [
+      "MDV",
+      "MV",
+      "Maldives"
+    ]
+  },
+  {
+    "country": "Mali",
+    "keywords": [
+      "ML",
+      "MLI",
+      "Mali"
+    ]
+  },
+  {
+    "country": "Malta",
+    "keywords": [
+      "MLT",
+      "MT",
+      "Malta"
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "keywords": [
+      "MH",
+      "MHL",
+      "Marshall Islands"
+    ]
+  },
+  {
+    "country": "Martinique",
+    "keywords": [
+      "MQ",
+      "MTQ",
+      "Martinique"
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "keywords": [
+      "MR",
+      "MRT",
+      "Mauritania"
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "keywords": [
+      "MU",
+      "MUS",
+      "Mauritius"
+    ]
+  },
+  {
+    "country": "Mayotte",
+    "keywords": [
+      "MYT",
+      "Mayotte",
+      "YT"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "keywords": [
+      "MEX",
+      "MX",
+      "Mexico"
+    ]
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "keywords": [
+      "FM",
+      "FSM",
+      "Federated States of Micronesia"
+    ]
+  },
+  {
+    "country": "Moldova, Republic of",
+    "keywords": [
+      "MD",
+      "MDA",
+      "Republic of Moldova"
+    ]
+  },
+  {
+    "country": "Monaco",
+    "keywords": [
+      "MC",
+      "MCO",
+      "Monaco"
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "keywords": [
+      "MN",
+      "MNG",
+      "Mongolia"
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "keywords": [
+      "ME",
+      "MNE",
+      "Montenegro"
+    ]
+  },
+  {
+    "country": "Montserrat",
+    "keywords": [
+      "MS",
+      "MSR",
+      "Montserrat"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "keywords": [
+      "MA",
+      "MAR",
+      "Morocco"
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "keywords": [
+      "MOZ",
+      "MZ",
+      "Mozambique"
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "keywords": [
+      "MM",
+      "MMR",
+      "Myanmar"
+    ]
+  },
+  {
+    "country": "Namibia",
+    "keywords": [
+      "NA",
+      "NAM",
+      "Namibia"
+    ]
+  },
+  {
+    "country": "Nauru",
+    "keywords": [
+      "NR",
+      "NRU",
+      "Nauru"
+    ]
+  },
+  {
+    "country": "Nepal",
+    "keywords": [
+      "NP",
+      "NPL",
+      "Nepal"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "keywords": [
+      "NL",
+      "NLD",
+      "Netherlands"
+    ]
+  },
+  {
+    "country": "New Caledonia",
+    "keywords": [
+      "NC",
+      "NCL",
+      "New Caledonia"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "keywords": [
+      "NZ",
+      "NZL",
+      "New Zealand"
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "keywords": [
+      "NI",
+      "NIC",
+      "Nicaragua"
+    ]
+  },
+  {
+    "country": "Niger",
+    "keywords": [
+      "NE",
+      "NER",
+      "Niger"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "keywords": [
+      "NG",
+      "NGA",
+      "Nigeria"
+    ]
+  },
+  {
+    "country": "Niue",
+    "keywords": [
+      "NIU",
+      "NU",
+      "Niue"
+    ]
+  },
+  {
+    "country": "Norfolk Island",
+    "keywords": [
+      "NF",
+      "NFK",
+      "Norfolk Island"
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "keywords": [
+      "MK",
+      "MKD",
+      "North Macedonia"
+    ]
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "keywords": [
+      "MNP",
+      "MP",
+      "Northern Mariana Islands"
+    ]
+  },
+  {
+    "country": "Norway",
+    "keywords": [
+      "NO",
+      "NOR",
+      "Norway"
+    ]
+  },
+  {
+    "country": "Oman",
+    "keywords": [
+      "OM",
+      "OMN",
+      "Oman"
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "keywords": [
+      "PAK",
+      "PK",
+      "Pakistan"
+    ]
+  },
+  {
+    "country": "Palau",
+    "keywords": [
+      "PLW",
+      "PW",
+      "Palau"
+    ]
+  },
+  {
+    "country": "Palestine, State of",
+    "keywords": [
+      "PS",
+      "PSE",
+      "Palestine, State of"
+    ]
+  },
+  {
+    "country": "Panama",
+    "keywords": [
+      "PA",
+      "PAN",
+      "Panama"
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "keywords": [
+      "PG",
+      "PNG",
+      "Papua New Guinea"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "keywords": [
+      "PRY",
+      "PY",
+      "Paraguay"
+    ]
+  },
+  {
+    "country": "Peru",
+    "keywords": [
+      "PE",
+      "PER",
+      "Peru"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "keywords": [
+      "PH",
+      "PHL",
+      "Philippines"
+    ]
+  },
+  {
+    "country": "Pitcairn",
+    "keywords": [
+      "PCN",
+      "PN",
+      "Pitcairn"
+    ]
+  },
+  {
+    "country": "Poland",
+    "keywords": [
+      "PL",
+      "POL",
+      "Poland"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "keywords": [
+      "PRT",
+      "PT",
+      "Portugal"
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "keywords": [
+      "PR",
+      "PRI",
+      "Puerto Rico"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "keywords": [
+      "QA",
+      "QAT",
+      "Qatar"
+    ]
+  },
+  {
+    "country": "Romania",
+    "keywords": [
+      "RO",
+      "ROU",
+      "Romania"
+    ]
+  },
+  {
+    "country": "Russian Federation",
+    "keywords": [
+      "RU",
+      "RUS",
+      "Russian Federation"
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "keywords": [
+      "RW",
+      "RWA",
+      "Rwanda"
+    ]
+  },
+  {
+    "country": "Réunion",
+    "keywords": [
+      "RE",
+      "REU",
+      "Reunion"
+    ]
+  },
+  {
+    "country": "Saint Barthélemy",
+    "keywords": [
+      "BL",
+      "BLM",
+      "Saint Barthelemy"
+    ]
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "keywords": [
+      "SH",
+      "SHN",
+      "Saint Helena, Ascension and Tristan da Cunha"
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "keywords": [
+      "KN",
+      "KNA",
+      "Saint Kitts and Nevis"
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "keywords": [
+      "LC",
+      "LCA",
+      "Saint Lucia"
+    ]
+  },
+  {
+    "country": "Saint Martin (French part)",
+    "keywords": [
+      "French part",
+      "MAF",
+      "MF"
+    ]
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "keywords": [
+      "PM",
+      "SPM",
+      "Saint Pierre and Miquelon"
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "keywords": [
+      "Saint Vincent and the Grenadines",
+      "VC",
+      "VCT"
+    ]
+  },
+  {
+    "country": "Samoa",
+    "keywords": [
+      "Samoa",
+      "WS",
+      "WSM"
+    ]
+  },
+  {
+    "country": "San Marino",
+    "keywords": [
+      "SM",
+      "SMR",
+      "San Marino"
+    ]
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "keywords": [
+      "ST",
+      "STP",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "keywords": [
+      "SA",
+      "SAU",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "keywords": [
+      "SEN",
+      "SN",
+      "Senegal"
+    ]
+  },
+  {
+    "country": "Serbia",
+    "keywords": [
+      "RS",
+      "SRB",
+      "Serbia"
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "keywords": [
+      "SC",
+      "SYC",
+      "Seychelles"
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "keywords": [
+      "SL",
+      "SLE",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "keywords": [
+      "SG",
+      "SGP",
+      "Singapore"
+    ]
+  },
+  {
+    "country": "Sint Maarten (Dutch part)",
+    "keywords": [
+      "Dutch part",
+      "SX",
+      "SXM"
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "keywords": [
+      "SK",
+      "SVK",
+      "Slovakia"
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "keywords": [
+      "SI",
+      "SVN",
+      "Slovenia"
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "keywords": [
+      "SB",
+      "SLB",
+      "Solomon Islands"
+    ]
+  },
+  {
+    "country": "Somalia",
+    "keywords": [
+      "SO",
+      "SOM",
+      "Somalia"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "keywords": [
+      "South Africa",
+      "ZA",
+      "ZAF"
+    ]
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "keywords": [
+      "GS",
+      "SGS",
+      "South Georgia and the South Sandwich Islands"
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "keywords": [
+      "SS",
+      "SSD",
+      "South Sudan"
+    ]
+  },
+  {
+    "country": "Spain",
+    "keywords": [
+      "ES",
+      "ESP",
+      "Spain"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "keywords": [
+      "LK",
+      "LKA",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "country": "State of Palestine",
+    "keywords": [
+      "PS",
+      "PSE",
+      "Palestine",
+      "Palestinian Territories"
+    ]
+  },
+  {
+    "country": "Sudan",
+    "keywords": [
+      "SD",
+      "SDN",
+      "Sudan"
+    ]
+  },
+  {
+    "country": "Suriname",
+    "keywords": [
+      "SR",
+      "SUR",
+      "Suriname"
+    ]
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "keywords": [
+      "SJ",
+      "SJM",
+      "Svalbard and Jan Mayen"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "keywords": [
+      "SE",
+      "SWE",
+      "Sweden"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "keywords": [
+      "CH",
+      "CHE",
+      "Switzerland"
+    ]
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "keywords": [
+      "SY",
+      "SYR",
+      "Syrian Arab Republic"
+    ]
+  },
+  {
+    "country": "Taiwan, Province of China",
+    "keywords": [
+      "TW",
+      "TWN",
+      "Taiwan, Province of China"
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "keywords": [
+      "TJ",
+      "TJK",
+      "Tajikistan"
+    ]
+  },
+  {
+    "country": "Tanzania, United Republic of",
+    "keywords": [
+      "TZ",
+      "TZA",
+      "United Republic of Tanzania"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "keywords": [
+      "TH",
+      "THA",
+      "Thailand"
+    ]
+  },
+  {
+    "country": "Timor-Leste",
+    "keywords": [
+      "TL",
+      "TLS",
+      "Timor-Leste"
+    ]
+  },
+  {
+    "country": "Togo",
+    "keywords": [
+      "TG",
+      "TGO",
+      "Togo"
+    ]
+  },
+  {
+    "country": "Tokelau",
+    "keywords": [
+      "TK",
+      "TKL",
+      "Tokelau"
+    ]
+  },
+  {
+    "country": "Tonga",
+    "keywords": [
+      "TO",
+      "TON",
+      "Tonga"
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "keywords": [
+      "TT",
+      "TTO",
+      "Trinidad and Tobago"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "keywords": [
+      "TN",
+      "TUN",
+      "Tunisia"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "keywords": [
+      "TR",
+      "TUR",
+      "Turkey"
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "keywords": [
+      "TKM",
+      "TM",
+      "Turkmenistan"
+    ]
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "keywords": [
+      "TC",
+      "TCA",
+      "Turks and Caicos Islands"
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "keywords": [
+      "TUV",
+      "TV",
+      "Tuvalu"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "keywords": [
+      "UG",
+      "UGA",
+      "Uganda"
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "keywords": [
+      "UA",
+      "UKR",
+      "Ukraine"
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "keywords": [
+      "AE",
+      "ARE",
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "keywords": [
+      "Britain",
+      "GB",
+      "GBR",
+      "Great Britain",
+      "UK",
+      "United Kingdom"
+    ]
+  },
+  {
+    "country": "United States",
+    "keywords": [
+      "America",
+      "US",
+      "USA",
+      "United States"
+    ]
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "keywords": [
+      "UM",
+      "UMI",
+      "United States Minor Outlying Islands"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "keywords": [
+      "URY",
+      "UY",
+      "Uruguay"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "keywords": [
+      "UZ",
+      "UZB",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "keywords": [
+      "VU",
+      "VUT",
+      "Vanuatu"
+    ]
+  },
+  {
+    "country": "Venezuela, Bolivarian Republic of",
+    "keywords": [
+      "Bolivarian Republic of Venezuela",
+      "VE",
+      "VEN"
+    ]
+  },
+  {
+    "country": "Viet Nam",
+    "keywords": [
+      "VN",
+      "VNM",
+      "Viet Nam"
+    ]
+  },
+  {
+    "country": "Virgin Islands, British",
+    "keywords": [
+      "British Virgin Islands",
+      "VG",
+      "VGB"
+    ]
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "keywords": [
+      "VI",
+      "VIR",
+      "Virgin Islands, U.S."
+    ]
+  },
+  {
+    "country": "Wallis and Futuna",
+    "keywords": [
+      "WF",
+      "WLF",
+      "Wallis and Futuna"
+    ]
+  },
+  {
+    "country": "Western Sahara",
+    "keywords": [
+      "EH",
+      "ESH",
+      "Western Sahara"
+    ]
+  },
+  {
+    "country": "Yemen",
+    "keywords": [
+      "YE",
+      "YEM",
+      "Yemen"
+    ]
+  },
+  {
+    "country": "Zambia",
+    "keywords": [
+      "ZM",
+      "ZMB",
+      "Zambia"
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "keywords": [
+      "ZW",
+      "ZWE",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "country": "Åland Islands",
+    "keywords": [
+      "ALA",
+      "AX",
+      "Aland Islands"
+    ]
+  }
+]
